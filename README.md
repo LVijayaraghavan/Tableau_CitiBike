@@ -17,4 +17,8 @@ Here we will aggregate the data found in the Citi Bike Trip History Logs to buil
       Owing to very large datasets , it was decided to concentrate on the month of febrauary for the years 2013-2019
       Using python Pandas data was cleaned and aggregated. 
      
-   # Tabla
+   # Tablaeu Visualization 
+   
+   * Bike and Station Growth
+   
+      ![Visualization](https://github.com/LVijayaraghavan/Tableau_CitiBike/blob/master/Images/screenshot1.PNG)
