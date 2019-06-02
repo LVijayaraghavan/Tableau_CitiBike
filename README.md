@@ -11,3 +11,10 @@ Here we will aggregate the data found in the Citi Bike Trip History Logs to buil
   * Today, what is the gender breakdown of active participants (Male v. Female)?
   *  How does the average trip duration change by age?
   * Also a route map from a given origin 
+  
+  # Data Collection and Visualization
+  
+      Owing to very large datasets , it was decided to concentrate on the month of febrauary for the years 2013-2019
+      Using python Pandas data was cleaned and aggregated. 
+     
+   # Tabla
