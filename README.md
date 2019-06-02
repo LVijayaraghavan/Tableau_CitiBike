@@ -16,6 +16,11 @@ Here we will aggregate the data found in the Citi Bike Trip History Logs to buil
   
       Owing to very large datasets , it was decided to concentrate on the month of febrauary for the years 2013-2019
       Using python Pandas data was cleaned and aggregated. 
+      
+   # Link to the Tableau Workbook
+   
+   {Tableau Public Work book link](https://public.tableau.com/profile/lalitha7388#!/vizhome/CitiBike_Visualizations/Storyboard?publish=yes)
+   
      
    # Tablaeu Visualization 
    
