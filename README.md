@@ -19,7 +19,7 @@ Here we will aggregate the data found in the Citi Bike Trip History Logs to buil
       
    # Link to the Tableau Workbook
    
-   {Tableau Public Work book link](https://public.tableau.com/profile/lalitha7388#!/vizhome/CitiBike_Visualizations/Storyboard?publish=yes)
+   [Tableau Public Work book link](https://public.tableau.com/profile/lalitha7388#!/vizhome/CitiBike_Visualizations/Storyboard?publish=yes)
    
      
    # Tablaeu Visualization 
