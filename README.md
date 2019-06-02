@@ -22,3 +22,8 @@ Here we will aggregate the data found in the Citi Bike Trip History Logs to buil
    * Bike and Station Growth
    
       ![Visualization](https://github.com/LVijayaraghavan/Tableau_CitiBike/blob/master/Images/screenshot1.PNG)
+   
+   * Route map from a selected  Origin 
+    
+    ![Routemap](https://github.com/LVijayaraghavan/Tableau_CitiBike/blob/master/Images/routemap.PNG)
+    
